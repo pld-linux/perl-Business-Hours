@@ -7,12 +7,12 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Business::Hours - Calculate business hours in a time period
 Name:		perl-Business-Hours
-Version:	0.12
+Version:	0.13
 Release:	1
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Business/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	2dab93f41af8382ccb3ad1ce215d2d03
+# Source0-md5:	83c7b6af0a373a3bd617e709ced59360
 URL:		http://search.cpan.org/dist/Business-Hours/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
