@@ -4,7 +4,6 @@
 #
 %define		pdir	Business
 %define		pnam	Hours
-%include	/usr/lib/rpm/macros.perl
 Summary:	Business::Hours - Calculate business hours in a time period
 Name:		perl-Business-Hours
 Version:	0.13
